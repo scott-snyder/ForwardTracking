@@ -1,8 +1,9 @@
 Version: 1
-Previous: e83fcbca1abc41385bdf04da70449647ec73eb53
-Head: a4c011cecf123a0909028be11d1d8421d6ed1415
+Previous: 2d530dcd8669338035c6e02b1b1f5e106a6d90fa
+Head: e0f0ae8241e72e1133d1b13037a75778d2ae360e
 Applied:
   warn: 50da65fab04ac972fb6a8f76a37f5189ad110d43
   gitignore: a4c011cecf123a0909028be11d1d8421d6ed1415
+  cmake: e0f0ae8241e72e1133d1b13037a75778d2ae360e
 Unapplied:
 Hidden:
